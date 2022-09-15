@@ -160,7 +160,7 @@ section{
         background-image: url('../assets/menu-buguer-close.svg');
         height: 18px;
         width:18px;
-        transition: 0.4s;
+        transition: 0.2s;
     }
     
     .logo-desktop{
